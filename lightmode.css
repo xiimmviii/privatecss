@@ -17,7 +17,7 @@ VARIABLES
     --color3: rgb(65 189 217);
     --color-hd: linear-gradient(to bottom, #17222d, #05aad5);
     --transparent: rgb(255 255 255 / 20%);
-    --white: #ffffff;
+    --white: #000000;
     --gradient: linear-gradient(135deg, rgb(0 66 91) 0%, rgb(42 189 218) 50%, rgb(2 62 83) 100%);
     --gradientrond2: radial-gradient(circle, rgb(3 66 91) 0%, rgb(58 173 191) 37%, rgb(4 56 77) 100%);
     --gradientrond1: radial-gradient(circle, rgb(183 100 32) 0%, rgb(252 173 129) 33%, rgb(169 93 58) 66%);
@@ -34,4 +34,7 @@ VARIABLES
    --minifont: "Carrois Gothic SC", sans-serif;
 }
 
-
+#row2 {
+    background-color: var(--blacktt1);
+    color: var(--white);
+}
