@@ -1190,7 +1190,7 @@ td.catBottom {
   font-family: var(--sansseriffont);
   line-height: 13px;
   !important;
-  text-shadow: 1px 1px var(--white);
+  text-shadow: 1px 1px var(--black);
   padding: 8px;
 }
 
@@ -1301,7 +1301,7 @@ AFFICHAGE RP / PROFIL
   text-align: center;
   font-size: 35px;
   font-family: var(--cursivefont) !important;
-  text-shadow: 1px 1px 1px white;
+  text-shadow: 1px 1px 1px var(--black);
   transition: all 1.5s ease-in-out;
 }
 
@@ -1309,7 +1309,7 @@ AFFICHAGE RP / PROFIL
   text-align: center;
   font-size: 35px;
   font-family: var(--cursivefont) !important;
-  text-shadow: 1px 1px 1px white;
+  text-shadow: 1px 1px 1px var(--black);
   text-decoration: none;
   transition: all 1.5s ease-in-out;
 }
@@ -1320,7 +1320,7 @@ AFFICHAGE RP / PROFIL
   font-family: var(--cursivefont) !important;
   padding-right: 3px;
   line-height: 25px;
-  text-shadow: 1px 1px 1px white;
+  text-shadow: 1px 1px 1px var(--black);
   text-decoration: none;
   transition: all 1.5s ease-in-out;
 }
@@ -1812,7 +1812,7 @@ MEMBRES
   z-index: 2;
   color: #fff;
   font-size: 35px;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px var(--black);
   font-family: var(--cursivefont) !important;
 }
 
