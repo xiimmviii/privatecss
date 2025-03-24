@@ -50,22 +50,6 @@ VARIABLES
   color: var(--color1);
 }
 
-.noshow,
-#fa_show,
-#fa_toolbar_hidden {
-  display: none !important;
-}
-
-select#sstyle {
-  position: fixed;
-  right: 2px;
-  top: 2px;
-  font-size: 25px;
-  background: transparent;
-  border: none !important;
-  font-color: transparent;
-}
-
 /* ---------------
 
 BOUTONS NAV COTÉ
