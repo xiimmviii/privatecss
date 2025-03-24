@@ -311,6 +311,7 @@ body{
   border: none;
 background-size: cover;
   background-position: center;
+	color: dimgrey;
 }
 
 .bodyline{
