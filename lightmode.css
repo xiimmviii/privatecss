@@ -756,7 +756,7 @@ text-align: center!important;
     border: none !important;
     position: fixed;
     background-color:var(--blackt);
-  color: white;
+  color: var(--white);
    padding: 3px!important;
 font-family: var(--sansseriffont);
 }
@@ -774,7 +774,7 @@ font-family: var(--sansseriffont);
     left: 0;
     width: 150px;
     padding: 10px 10px 10px 10px;
-    color: white;
+    color: var(--white);
     font-size: 15px;
     text-align: center;
    font-family: var(--sansseriffont);
@@ -788,7 +788,7 @@ font-family: var(--sansseriffont);
 
 #fa_usermenu td {
 
-    color: white;
+    color: var(--white);
     font-size: 15px;
     text-align: center;
  font-family: var(--sansseriffont);
@@ -808,8 +808,8 @@ bottom: 170px !important;
     min-width: 145px;
     border: none !important;
     position: fixed;
-    background-color:var(--blackt);
-  color: white;
+    background-color: var(--blackt);
+  color: var(--white);
 }
  
 /* Mise en page des notifications */
@@ -818,7 +818,7 @@ bottom: 170px !important;
   width:auto!important;
   font-size: 14px;
   background-color:var(--blackt);
-  color: white;
+  color: var(--white);
 }
 
 #fa_toolbar #fa_right #notif_list li .contentText a {
@@ -832,7 +832,7 @@ bottom: 170px !important;
   overflow:visible!important;
   width:210px !important;
   height:auto!important;
-  color: white;
+  color: var(--white);
 }
  
 /* Bloc "notifs non lues" */
@@ -842,7 +842,7 @@ bottom: 170px !important;
  
 #fa_toolbar #fa_right #notif_list li.unread {
    background-color:var(--blackt);
-  color: white;
+  color: var(--white);
 }
  
 /* Mise en page du bloc "voir toutes les notifications" */
@@ -1160,7 +1160,7 @@ font-family: var(--sansseriffont);
  font-size: 11px; 
 font-family: var(--sansseriffont);
   line-height: 13px;!important;
-  text-shadow: 1px 1px white;
+  text-shadow: 1px 1px var(--white);
   padding: 8px;
 }
 
