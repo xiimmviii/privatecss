@@ -375,6 +375,10 @@ SPECS TEXT
   color: black;
 }
 
+gen, .genmed, .gensmall {
+    color: var(--white);
+}
+
 hr {
   background-color: var(--color2);
   /* width: 80%; */
