@@ -349,6 +349,7 @@ div.sceditor-group {
 }
 
 
+
 .postbody img[longdesc]
 {
 width:20px;
@@ -366,6 +367,8 @@ height:20px;
 SPECS TEXT
 
 ---------------- */ 
+
+.postbody { color: black; }
 
 hr {
     background-color: var(--color2);
@@ -1257,6 +1260,7 @@ background: var(--blackt);
   padding: 8px;
   font-family: var(--seriffont);
   font-style: normal;
+	color: black;
 }
 
 .name {
