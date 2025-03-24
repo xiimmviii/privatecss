@@ -342,13 +342,13 @@ div#page-footer {
 
 .sceditor-container iframe,
 .sceditor-container textarea {
-  color: var(--white) !important;
+  color: var(--black) !important;
 }
 
 /*---  Boutons ---*/
 
 div.sceditor-group {
-  background-color: #232323 !important;
+  background-color: var(--black) !important;
 }
 
 
