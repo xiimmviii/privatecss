@@ -1160,7 +1160,7 @@ font-family: var(--sansseriffont);
  font-size: 11px; 
 font-family: var(--sansseriffont);
   line-height: 13px;!important;
-  text-shadow: 1px 1px black;
+  text-shadow: 1px 1px white;
   padding: 8px;
 }
 
@@ -1267,7 +1267,7 @@ background: var(--blackt);
   text-align: center;
   font-size: 35px;
      font-family: var(--cursivefont)!important;
-  text-shadow: 1px 1px 1px #000000;
+  text-shadow: 1px 1px 1px white;
   transition: all 1.5s ease-in-out;
 }
 
@@ -1275,7 +1275,7 @@ background: var(--blackt);
   text-align: center;
   font-size: 35px;
       font-family: var(--cursivefont)!important;
-  text-shadow: 1px 1px 1px #000000;
+  text-shadow: 1px 1px 1px white;
   text-decoration: none;
   transition: all 1.5s ease-in-out;
 }
@@ -1286,7 +1286,7 @@ background: var(--blackt);
      font-family: var(--cursivefont)!important;
   padding-right: 3px;
      line-height: 25px;
-  text-shadow: 1px 1px 1px #000000;
+  text-shadow: 1px 1px 1px white;
     text-decoration: none;
     transition: all 1.5s ease-in-out;
 }
@@ -1738,7 +1738,7 @@ font-family: var(--seriffont);
     z-index: 2;
     color: #fff;
   font-size: 35px;
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 2px 2px 2px white;
     font-family: var(--cursivefont)!important;
 }
 
