@@ -40,8 +40,8 @@ document.addEventListener("DOMContentLoaded", function () {
     themeButton.style.cursor = "pointer";
     themeButton.style.borderRadius = "10%";
     themeButton.style.border = "none";
-    themeButton.style.background = transparent;
-    themeButton.style.color = ;
+    themeButton.style.background = "transparent";
+    themeButton.style.color = "";
     themeButton.style.zIndex = "9999";
     document.body.appendChild(themeButton);
 
