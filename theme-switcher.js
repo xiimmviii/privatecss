@@ -33,14 +33,14 @@ document.addEventListener("DOMContentLoaded", function () {
     themeButton.id = "themeSwitcher";
     themeButton.innerHTML = styles[currentIndex].name;
     themeButton.style.position = "fixed";
-    themeButton.style.top = "30px";
-    themeButton.style.left = "75px";
-    themeButton.style.padding = "0px";
+    themeButton.style.top = "10px";
+    themeButton.style.left = "70px";
+    themeButton.style.padding = "0px 5px";
     themeButton.style.fontSize = "25px";
     themeButton.style.cursor = "pointer";
     themeButton.style.borderRadius = "10%";
     themeButton.style.border = "none";
-    themeButton.style.background = "transparent";
+    themeButton.style.background = "#00000080";
     themeButton.style.color = "";
     themeButton.style.zIndex = "9999";
     document.body.appendChild(themeButton);
