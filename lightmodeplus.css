@@ -19,7 +19,7 @@ VARIABLES
     --color1: rgb(138 187 208);
     --color1tt: rgb(107 145 162 / 75%);
     --color1tt1: rgb(171 208 217 / 50%);
-    --color1ttb: rgb(141 181 208 / 50%);
+    --color1ttb: rgb(175 175 175 / 50%);
     --color2: rgb(184 56 122);
     --color2tt: rgb(143 44 94 / 75%);
     --color3: rgb(65 189 217);
@@ -186,14 +186,14 @@ SWITCHEROO
 ---------------- */
 
 :root {
-  --color-text: #112935;
-  --color-bg: none;
-  --color-delete: #f9a270;
-  --color-tooltip: #0aa4c0;
-  --color-squircle: #fadbc0;
-  --color-accent: #fa9d5f;
-  --color-button: #4abfe0;
-  --color-pill: #f3d4b5;
+ --color-text: #112935;
+    --color-bg: none;
+    --color-delete: #989898;
+    --color-tooltip: #465772;
+    --color-squircle: #6f859a;
+    --color-accent: #4b4643;
+    --color-button: #4abfe0;
+    --color-pill: #303f67;
   --gap-size: 16px;
   --ease: cubic-bezier(0.4, 0.0, 0.2, 1);
   --ease-bounce: cubic-bezier(0.43, 0.09, 0.38, 2.56);
