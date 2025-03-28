@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: var(--background);
   background-image: url("https://i.ibb.co/TMW54wwr/Wlllppr-LIGHTplus.png");
   background-attachment: fixed;
   color: black;
@@ -12,6 +12,7 @@ VARIABLES
 ---------------- */
 
 :root {
+  --background: aliceblue;
   --black: rgb(255 255 255);
   --blackt: rgb(255 255 255 / 75%);
   --blacktt: rgb(255 255 255 / 50%);
@@ -602,7 +603,7 @@ ella {
 }
 
 sasha {
-  color: #ffccff;
+  color: #ff97ed;
   font-weight: bold;
 }
 
@@ -622,7 +623,7 @@ barbie {
 }
 
 stellan {
-  color: #BADFF6;
+  color: #4c89e7;
   font-weight: bold;
 }
 
@@ -2221,7 +2222,7 @@ BASE FORUM
 }
 
 #sceditor_smilies {
-  background-color: #ffffff;
+  background-color: var(--background);
 }
 }
 
@@ -2229,7 +2230,7 @@ BASE FORUM
 
   /*background:none;
 	*/
-  background-color: #ffffff;
+  background-color: var(--background);
   background-image: none;
   min-width: 1px !important;
 }
@@ -2240,11 +2241,11 @@ BASE FORUM
 }
 
 .sceditor-container {
-  background-color: #ffffff !important;
+  background-color: var(--background) !important;
 }
 
 .sceditor-toolbar {
-  background-color: #ffffff !important;
+  background-color: var(--background) !important;
 }
 
 /* Links */
@@ -2272,24 +2273,24 @@ a:hover {
 
 hr {
   height: 0;
-  border: solid #ffffff 0;
+  border: solid var(--color3) 0;
   border-top-width: 1px;
 }
 
 td.row1,
 td.row3.over:hover {
-  background-color: #ffffff;
+  background-color: var(--background);
   color: black;
 }
 
 td.row2,
 td.row1.over:hover {
-  background-color: #ffffff;
+  background-color: var(--background);
   color: black;
 }
 
 td.row3 {
-  background-color: #ffffff;
+  background-color: var(--background);
   color: black;
 }
 
