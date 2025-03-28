@@ -18,7 +18,7 @@ VARIABLES
 ---------------- */
 
 :root {
-    --background: #e1e6ea;
+    --background: #d7dde4;
     --black: rgb(255 255 255);
     --blackt: rgb(255 255 255 / 75%);
     --blacktt: rgb(255 255 255 / 50%);
@@ -609,7 +609,7 @@ ella {
 }
 
 sasha {
-  color: #ffccff;
+  color: #ff97ed;
   font-weight: bold;
 }
 
@@ -629,7 +629,7 @@ barbie {
 }
 
 stellan {
-  color: #BADFF6;
+  color: #4c89e7;
   font-weight: bold;
 }
 
