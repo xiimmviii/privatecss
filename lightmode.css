@@ -1,5 +1,18 @@
 /* ---------------
 
+BASE FORUM
+
+---------------- */
+
+body {
+  background-color: #ffffff;
+  background-image: url("https://i.ibb.co/N2CMfjqk/Wllppr2-LIGHT.png");
+  background-attachment: fixed;
+  color: black;
+}
+
+/* ---------------
+
 VARIABLES
 
 ---------------- */
@@ -2192,12 +2205,6 @@ BASE FORUM
 
 ---------------- */
 
-body {
-  background-color: #ffffff;
-  background-image: url("https://i.ibb.co/357DrQP4/photo-1526052480487-251361aad2df.jpg");
-  background-attachment: fixed;
-  color: black;
-}
 
 * html {
   scrollbar-face-color: #b18ede;
