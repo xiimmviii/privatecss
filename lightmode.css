@@ -1810,7 +1810,7 @@ MEMBRES
   z-index: 2;
   color: #fff;
   font-size: 35px;
-  text-shadow: 2px 2px 2px var(--black);
+ /* text-shadow: 2px 2px 2px var(--black); */
   font-family: var(--cursivefont) !important;
 }
 
