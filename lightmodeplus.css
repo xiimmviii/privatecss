@@ -67,15 +67,15 @@ OBJECTS
 
 .sceditor-container iframe,
 .sceditor-container textarea {
-  color: var(--black) !important;
+  color: var(--white) !important;
 }
 
 div.sceditor-group {
   background-color: var(--black) !important;
 }
 
-input {
-	background: var(--background);
+input, input.liteoption {
+	background: var(--background)!important;
 	color: var(--white);
 }
 
@@ -89,6 +89,10 @@ input {
 #sceditor_smilies img {
   max-width: 25px;
   max-height: 25px;
+}
+
+textarea {
+	color: var(--white);
 }
 
 /* ---------------
