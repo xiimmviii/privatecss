@@ -343,7 +343,10 @@ div.sceditor-group {
   background-color: var(--black) !important;
 }
 
-
+input {
+	background: var(--background);
+	color: var(--white);
+}
 
 .postbody img[longdesc] {
   width: 20px;
@@ -368,7 +371,7 @@ SPECS TEXT
 }
 
 gen, .genmed, .gensmall {
-    color: var(--white);
+    color: var(--white)!important;
 }
 
 hr {
