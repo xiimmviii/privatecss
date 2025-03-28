@@ -33,8 +33,8 @@ document.addEventListener("DOMContentLoaded", function () {
     themeButton.id = "themeSwitcher";
     themeButton.innerHTML = styles[currentIndex].name;
     themeButton.style.position = "fixed";
-    themeButton.style.bottom = "300px";
-    themeButton.style.left = "10px";
+    themeButton.style.top = "30px";
+    themeButton.style.left = "75px";
     themeButton.style.padding = "0px";
     themeButton.style.fontSize = "25px";
     themeButton.style.cursor = "pointer";
