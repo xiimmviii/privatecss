@@ -5,7 +5,7 @@ BASE FORUM
 ---------------- */
 
 body {
-  background-color: #c9c9c9;
+  background-color: var(--background);
   background-image: url("https://i.ibb.co/FP0G7j9/Wlllppr-LIGHT.png");
   background-attachment: fixed;
   color: black;
@@ -18,6 +18,7 @@ VARIABLES
 ---------------- */
 
 :root {
+    --background: #e1e6ea;
     --black: rgb(255 255 255);
     --blackt: rgb(255 255 255 / 75%);
     --blacktt: rgb(255 255 255 / 50%);
@@ -2227,7 +2228,7 @@ BASE FORUM
 }
 
 #sceditor_smilies {
-  background-color: #c9c9c9;
+  background-color: var(--background);
 }
 }
 
@@ -2235,7 +2236,7 @@ BASE FORUM
 
   /*background:none;
 	*/
-  background-color: #c9c9c9;
+  background-color: var(--background);
   background-image: none;
   min-width: 1px !important;
 }
@@ -2246,11 +2247,11 @@ BASE FORUM
 }
 
 .sceditor-container {
-  background-color: #c9c9c9 !important;
+  background-color: var(--background) !important;
 }
 
 .sceditor-toolbar {
-  background-color: #c9c9c9 !important;
+  background-color: var(--background) !important;
 }
 
 /* Links */
@@ -2284,18 +2285,18 @@ hr {
 
 td.row1,
 td.row3.over:hover {
-  background-color: #c9c9c9;
+  background-color: var(--background);
   color: black;
 }
 
 td.row2,
 td.row1.over:hover {
-  background-color: #c9c9c9;
+  background-color: var(--background);
   color: black;
 }
 
 td.row3 {
-  background-color: #c9c9c9;
+  background-color: var(--background);
   color: black;
 }
 
