@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
     let styles = [
         { name: "🌙", url: "" }, // Dark Mode (CSS du forum par défaut)
         { name: "☀️", url: "https://xiimmviii.github.io/privatecss/lightmode.css" },
-        { name: "🌤️", url: "https://xiimmviii.github.io/privatecss/lightmodeplus.css" },
-        { name: "⚫", url: "https://xiimmviii.github.io/privatecss/fademode.css" }
+      //  { name: "🌤️", url: "https://xiimmviii.github.io/privatecss/lightmodeplus.css" },
+      //  { name: "⚫", url: "https://xiimmviii.github.io/privatecss/fademode.css" }
     ];
 
     // Ajouter la balise <link> pour appliquer le style si nécessaire
