@@ -18,25 +18,25 @@ VARIABLES
 ---------------- */
 
 :root {
---background: #dfd5d6;
+    --background: #dfd5d6;
     --black: rgb(235 223 227);
     --blackt: rgb(228 219 222 / 75%);
     --blacktt: rgb(235 224 227 / 50%);
-    --color1: rgb(15 37 57);
-    --color1tt: rgb(13 32 50 / 75%);
-    --color1tt1: rgb(15 37 57 / 50%);
-    --color1ttb: rgb(115 111 122 / 32%);
-    --color2: rgb(31 57 85);
-    --color2tt: rgb(44 68 97 / 66%);
+    --color1: rgb(74 46 45);
+    --color1tt: rgb(98 66 62 / 86%);
+    --color1tt1: rgb(88 56 60 / 71%);
+    --color1ttb: rgb(54 46 47 / 63%);
+    --color2: rgb(85 53 31);
+    --color2tt: rgb(47 20 12 / 68%);
     --color3: rgb(151 130 130);
-    --color-hd: linear-gradient(to bottom, #0f2539, #978282);
+    --color-hd: linear-gradient(to bottom, #391a0f, #978282);
     --transparent: rgb(255 255 255 / 20%);
     --white: #000000;
-    --gradient: linear-gradient(135deg, rgb(14 28 39) 0%, rgb(39 63 91) 50%, rgb(12 28 39) 100%);
-    --gradientrond1: radial-gradient(circle, rgb(83 85 98) 0%, rgb(227 218 221) 37%, rgb(124 117 125) 100%);
-    --gradientrond2: radial-gradient(circle, rgb(12 32 48) 0%, rgb(51 70 95) 33%, rgb(14 27 36) 66%);
-    --gradientligne1: linear-gradient(35deg, rgb(160 137 135) 0%, rgb(78 93 113) 47%, rgb(105 95 103) 100%);
-    --gradientligne2: linear-gradient(215deg, rgb(98 98 112) 0%, rgb(32 54 81) 33%, rgb(67 91 112) 66%);
+    --gradient: linear-gradient(135deg, rgb(39 24 14) 0%, rgb(91 66 39) 50%, rgb(39 12 12) 100%);
+    --gradientrond1: radial-gradient(circle, rgb(98 83 83) 0%, rgb(210 192 163) 37%, rgb(125 117 117) 100%);
+    --gradientrond2: radial-gradient(circle, rgb(40 48 12) 0%, rgb(93 95 51) 33%, rgb(27 36 14) 66%);
+    --gradientligne1: linear-gradient(35deg, rgb(148 160 135) 0%, rgb(113 96 78) 47%, rgb(96 105 95) 100%);
+    --gradientligne2: linear-gradient(215deg, rgb(112 98 98) 0%, rgb(61 81 32) 33%, rgb(112 84 67) 66%);
     --groupemiella: #E655A7;
     --groupesashanni: #55E6DF;
     --groupewaldi: #E68355;
@@ -192,12 +192,12 @@ SWITCHEROO
 ---------------- */
 
 :root {
-    --color-text: #314471;
+    --color-text: #714f31;
     --color-bg: none;
     --color-delete: #d1c7ca;
-    --color-tooltip: #11273b;
-    --color-squircle: #0c1f2f;
-    --color-accent: #a0aec7;
+    --color-tooltip: #3b1111;
+    --color-squircle: #2f140c;
+    --color-accent: #c7b0a0;
     --color-button: #e6dde0;
     --color-pill: #aba2a5;
     --gap-size: 16px;
